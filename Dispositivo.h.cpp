@@ -1,4 +1,3 @@
-#include <iostream>
 #include "Accion.h.cpp"
 #include "List.h.cpp"
 
