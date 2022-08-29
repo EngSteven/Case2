@@ -1,4 +1,3 @@
-#include <iostream>
 #include "Parameters.h.cpp"
 
 #ifndef ACCION
