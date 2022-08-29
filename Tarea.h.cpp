@@ -1,6 +1,8 @@
 #include <string>
-#include <iostream>
 #include "Dispositivo.h.cpp"
+
+#ifndef TAREA
+#define TAREA 1
 
 using namespace std;
 
@@ -38,4 +40,4 @@ class Tarea{
         }       
 };
 
-
+#endif
